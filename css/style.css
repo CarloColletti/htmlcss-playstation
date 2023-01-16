@@ -19,6 +19,23 @@
 
 /* jumbotron */
 
-/* .jumbotron{
+.jumbotron{
     background-image: url(../img/jumbo-bg.png);
-} */
+    height: 20vh;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+
+.tot-altezza{
+    height: 20vh;
+}
+
+/* it takes two */
+
+.other-jumbotron{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    height: 20vh;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
