@@ -1,0 +1,18 @@
+
+/* debug */
+
+[class*="col"] {
+    min-height: 20px;
+    border: 2px dashed orange;
+}
+
+[class*="col"] {
+    min-height: 20px;
+    border: 2px dashed green;
+}
+
+/* header  */
+
+.logo{
+    width: 80px;
+}
