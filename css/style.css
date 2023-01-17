@@ -127,8 +127,10 @@ footer ul li {
 
 /* animazioni  */
 .jumbo-anim:hover {
-    animation-name: example;
-    animation-duration: 4s;
     transform: translate(0px, -10px);
+}
+
+.pointer{
+    cursor: pointer;
 }
 
