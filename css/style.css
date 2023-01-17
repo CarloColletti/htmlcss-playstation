@@ -45,6 +45,11 @@
  background-color: #bebcbb;
 }
 
-.logo-ps-plus{
+.logo-ps-plus-now{
     width: 60%;
+}
+
+/* ps now  */
+.now-bg{
+    background-color: #161c3b;
 }
