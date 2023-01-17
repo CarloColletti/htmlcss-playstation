@@ -39,3 +39,12 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+/* ps plus */
+.plus-bg{
+ background-color: #bebcbb;
+}
+
+.logo-ps-plus{
+    width: 60%;
+}
