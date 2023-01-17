@@ -49,6 +49,13 @@ footer ul li {
     border-bottom: 2px solid blue;
 }
 
+.outline{
+    outline-offset: 0.2rem;
+    outline-color: blue;
+    outline-width: 3px;
+    outline-style: solid;
+}
+
 
 .tot-altezza{
     height: 100%;
@@ -61,6 +68,8 @@ footer ul li {
     height: 80vh;
     background-repeat: no-repeat;
     background-size: cover;
+    object-fit: cover;
+    background-position: center;
 }
 
 /* ps plus */
@@ -88,3 +97,38 @@ footer ul li {
 }
 
 /* button */
+
+.outline-btr-grey:hover{
+    outline-offset: 0.2rem;
+    outline-color: black;
+    outline-width: 3px;
+    outline-style: solid;
+}
+
+.outline-btr-red:hover {
+    outline-offset: -0.4rem;
+    outline-color: #900603;
+    outline-width: 3px;
+    outline-style: solid;
+}
+
+.outline-btr-blue:hover {
+    outline-offset: 0.2rem;
+    outline-color: blue;
+    outline-width: 3px;
+    outline-style: solid;
+}
+.outline-btr-now:hover {
+    outline-offset: -0.3rem;
+    outline-color: blue;
+    outline-width: 3px;
+    outline-style: solid;
+}
+
+/* animazioni  */
+.jumbo-anim:hover {
+    animation-name: example;
+    animation-duration: 4s;
+    transform: translate(0px, -10px);
+}
+
