@@ -1,7 +1,7 @@
 
 /* debug */
-/* 
-[class*="col"] {
+
+/* [class*="col"] {
     min-height: 20px;
     border: 2px dashed orange;
 }
@@ -17,6 +17,10 @@ ul li a{
 }
 ul li {
     list-style: none;
+}
+
+footer ul li {
+    padding-bottom: 5px;
 }
 
 /* header  */
@@ -72,5 +76,5 @@ ul li {
 }
 
 .bg-sony-blue{
-    background-color: #161c3b;
+    background-color: #00439c;
 }
