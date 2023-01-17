@@ -36,6 +36,7 @@ footer ul li {
     height: 80vh;
     background-repeat: no-repeat;
     background-size: cover;
+    object-fit: cover;
 }
 
 
@@ -67,9 +68,6 @@ footer ul li {
 }
 
 /* footer  */
-.ps-logo{
-    width: 30%;
-}
 
 .sony-logo{
     width: 25%;
@@ -78,3 +76,5 @@ footer ul li {
 .bg-sony-blue{
     background-color: #00439c;
 }
+
+/* button */
