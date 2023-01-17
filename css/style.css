@@ -40,6 +40,16 @@ footer ul li {
     background-position: center;
 }
 
+.img-opacy{
+    filter: opacity(50%);
+}
+
+.img-opacy:hover {
+    filter: opacity(100%);
+    border-bottom: 2px solid blue;
+}
+
+
 .tot-altezza{
     height: 100%;
 }
