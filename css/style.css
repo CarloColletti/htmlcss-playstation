@@ -37,8 +37,8 @@ footer ul li {
     background-repeat: no-repeat;
     background-size: cover;
     object-fit: cover;
+    background-position: center;
 }
-
 
 .tot-altezza{
     height: 100%;
