@@ -21,15 +21,21 @@
 
 .jumbotron{
     background-image: url(../img/jumbo-bg.png);
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
 .tot-altezza{
-    min-height: 600px;
+    height: 100%;
 }
 
 /* it takes two */
 
 .other-jumbotron{
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
