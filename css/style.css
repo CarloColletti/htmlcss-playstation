@@ -11,6 +11,14 @@
     border: 2px dashed green;
 }
 
+ul li a{
+    color: white;
+    text-decoration: none;
+}
+ul li {
+    list-style: none;
+}
+
 /* header  */
 
 .logo{
@@ -51,5 +59,18 @@
 
 /* ps now  */
 .now-bg{
+    background-color: #161c3b;
+}
+
+/* footer  */
+.ps-logo{
+    width: 30%;
+}
+
+.sony-logo{
+    width: 25%;
+}
+
+.bg-sony-blue{
     background-color: #161c3b;
 }
